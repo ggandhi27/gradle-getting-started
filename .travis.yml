@@ -2,5 +2,5 @@ language: java
 deploy:
   provider: heroku
   api_key:
-    secure: 6a2b2c83-600e-49b7-9208-87ebcaae09dc 
+    secure: 1f3a7cae-76d9-45d9-b1fa-b3a8809d04d2
     app: gradle-getting-started
