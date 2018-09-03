@@ -3,3 +3,4 @@ deploy:
   provider: heroku
   api_key:
     secure: 6a2b2c83-600e-49b7-9208-87ebcaae09dc 
+    app: gradle-getting-started
